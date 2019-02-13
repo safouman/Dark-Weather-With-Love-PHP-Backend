@@ -9,6 +9,6 @@ API endpoints:
 -   Time Machine Forecast : https://madewithloveweather.herokuapp.com/api/forecast?lat=[LAT]&lon=[LON]&time=[TIME]
 
 
-[Live Demo](https://5c6418b1df7c8d018be06862--darkskymadewithlove.netlify.com/)
+[Live Demo](https://5c641a9167178f017cd29613--darkskymadewithlove.netlify.com/)
 
 [Client Side Repo](https://github.com/safouman/Dark-Weather-With-Love-Client)
