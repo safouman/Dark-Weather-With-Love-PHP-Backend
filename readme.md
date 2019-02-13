@@ -7,6 +7,6 @@ API endpoints:
 
 This is a server side of a dark sky weather app using PHP Lumen REST API
 
-[Live Demo](https://5c63f15990e0999b1cad9573--darkskymadewithlove.netlify.com/)
+[Live Demo](https://5c6418b1df7c8d018be06862--darkskymadewithlove.netlify.com/)
 
 [Client Side Repo](https://github.com/safouman/Dark-Weather-With-Love-Client)
